@@ -1,4 +1,4 @@
-### See my projects as *pictures* on [victormerckle.fr](https://victormerckle.fr/)
+### See my projects as [*pictures*](https://victormerckle.fr/) on my website
 
 <!--
 **vmerckle/vmerckle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
