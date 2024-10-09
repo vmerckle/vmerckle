@@ -1,4 +1,4 @@
-## Hi there 👋
+## See my projects as *pictures* on [victormerckle.fr](https://victormerckle.fr/).
 
 <!--
 **vmerckle/vmerckle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
