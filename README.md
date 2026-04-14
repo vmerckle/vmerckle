@@ -1,4 +1,4 @@
-### See my projects as [*pictures*](https://victormerckle.fr/).
+### See my projects as [pictures](https://victormerckle.fr/) on my website.
 
 <!--
 - 🔭 I’m currently working on ...
